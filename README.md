@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZeroUltra
-![Visitor Count](https://profile-counter.glitch.me/ZeroUltra/count.svg)
 
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=ZeroUltra&repo=ZeroUltra.github.io&theme=dark)
+
+![Visitor Count](https://profile-counter.glitch.me/ZeroUltra/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroUltra&layout=compact&theme=tokyonight)
 
