@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ZeroUltra
 
 
-![Visitor Count](https://profile-counter.glitch.me/ZeroUltra/count.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroUltra&layout=compact&theme=tokyonight)
 
 <!---
